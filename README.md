@@ -7,7 +7,7 @@ You can always find me at [ousama.dev](https://ousama.dev/), where I share my jo
 
 That's me – excited and committed to building a bright future! 🚀
 
-<img alt="My Skills" title="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,git,mysql,docker,postman,figma&perline=6"></img>
+<img alt="My Skills" title="My Skills" src="https://skillicons.dev/icons?i=js,react,nodejs,nextjs,git,tailwind,postgres,mysql,py,docker,postman,figma,html,css&perline=8"></img>
 
 <div>
 <!-- <a href="https://url.ousama.dev/youtube"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCfl7e6yFtA6hkV29JfIOoLw?style=for-the-badge&logo=youtube&logoColor=white&label=SUBSCRIBE&labelColor=CE4630"/></a> 
